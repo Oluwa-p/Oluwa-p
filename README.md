@@ -1,0 +1,2 @@
+ Hello! 👋 I am Oluwapelumi omikunle a graduate of Agricultural economist Obafemi Awolowo University and a passionate Data Analyst. My unique blend of expertise in economics, statistics, and data analysis enables me to uncover insights and drive data-driven decisions.
+I have transitioned into the tech world, focusing on data analysis, where I leverage tools like Google sheets, SQL, Excel, Power BI, and Tableau to explore, clean, and visualize data. My goal is to bridge the gap between data and actionable business solutions.
